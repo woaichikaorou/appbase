@@ -13,6 +13,7 @@
 
 	<modules>
 		<module>appbase-api</module>
+		<module>appbase-notion</module>
 	</modules>
 	<packaging>pom</packaging>
 
